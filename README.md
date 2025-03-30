@@ -32,23 +32,3 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-## Projetos em Destaque ⭐
-
-<div align="center">
-  <a href="https://github.com/VitorLSB/PROJETO1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLSB&repo=PROJETO1&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/VitorLSB/PROJETO2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorLSB&repo=PROJETO2&theme=material-palenight" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/notslux/notslux/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-  <p>Não se esqueça que, como o Gengar, às vezes o melhor código é aquele que você não vê! 👻</p>
-
-  <img src="https://komarev.com/ghpvc/?username=VitorLSB&color=blueviolet" alt="Profile views">
-</div>
