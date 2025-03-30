@@ -10,7 +10,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/VitorLSB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=9D4EDD)](https://github.com/VitorLSB)
   [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=9D4EDD)](mailto:vl.devolper@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=9D4EDD)](https://www.linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=9D4EDD)]([https://www.linkedin.com](https://www.linkedin.com/in/vitor-lucas-366031342/))
   
 </div>
 
@@ -24,19 +24,16 @@
 
 ```javascript
 const vitor = {
-  skills: ["HTML", "CSS", "JavaScript", "ReactJS", "NodeJS"],
-  learning: ["TypeScript", "NextJS", "MongoDB"],
-  passions: ["Desenvolvimento Web", "Novas Tecnologias", "Projetos Open Source"],
+  skills: ["HTML", "CSS", "JavaScript", "ReactJS"],
+  passions: ["Desenvolvimento Web", "Novas Tecnologias"],
   currentFocus: "Criar aplicações web impressionantes e funcionais",
-  funFact: "Meu Pokémon favorito é o Gengar! 👻"
 };
 ```
 
-- 🌱 Atualmente estou estudando **HTML**, **CSS**, **JavaScript**, **ReactJS** e **NodeJS**
+- 🌱 Atualmente estou estudando **HTML**, **CSS**, **JavaScript** e **ReactJS** 
 - 👯 Procuro colaborar em projetos de desenvolvimento web
-- 💬 Pergunte-me sobre desenvolvimento front-end e back-end
+- 💬 Pergunte-me sobre desenvolvimento front-end 
 - 📫 Como me encontrar: **vl.devolper@gmail.com**
-- 🔮 Meta para 2025: Contribuir mais para projetos open source
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Minhas Habilidades 💻
 
