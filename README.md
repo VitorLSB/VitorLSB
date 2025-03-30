@@ -13,7 +13,7 @@
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript, ReactJS e NodeJS
 - 👯 Procuro colaborar em projetos de desenvolvimento web
 - 💬 Pergunte-me sobre desenvolvimento front-end e back-end
-- 📫 Como me encontrar: [seu email ou redes sociais]
+- 📫 Como me encontrar: vl.devolper@gmail.com
 
 ## Minhas Estatísticas do GitHub 📊
 
