@@ -80,10 +80,6 @@ const vitor = {
 <br>
 
 <div align="center">
-  <img src="https://github.com/VitorLSB/VitorLSB/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=VitorLSB&color=9d4edd&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
 
