@@ -80,10 +80,10 @@ const vitor = {
 <br>
 <br>
 
-![Snake animation](https://github.com/VitorLSB/VitorLSB/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VitorLSB&color=9d4edd&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=footer"/>
+
+![Snake animation](https://github.com/VitorLSB/VitorLSB/blob/output/github-contribution-grid-snake.svg)
