@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Apaixonado;Fã+de+Pokémon;Sempre+Aprendendo&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;Fã+de+Pokémon;Sempre+Aprendendo&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&size=22">
 </div>
 
 ## Sobre Mim 👻
 
-- 🌱 Atualmente estou aprendendo [tecnologias que você está estudando]
-- 👯 Procuro colaborar em projetos interessantes
-- 💬 Pergunte-me sobre [assuntos que você domina]
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, ReactJS e NodeJS
+- 👯 Procuro colaborar em projetos de desenvolvimento web
+- 💬 Pergunte-me sobre desenvolvimento front-end e back-end
 - 📫 Como me encontrar: [seu email ou redes sociais]
 
 ## Minhas Estatísticas do GitHub 📊
@@ -25,11 +25,11 @@
 ## Minhas Habilidades 💻
 
 <div style="display: inline_block" align="center"><br>
-  <!-- Adicione os ícones das tecnologias que você conhece -->
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- Adicione mais ícones conforme necessário -->
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ## Projetos em Destaque ⭐
