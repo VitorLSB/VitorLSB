@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;Fã+de+Pokémon;Sempre+Aprendendo&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;Sempre+Aprendendo&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&size=22">
 </div>
 
 ## Sobre Mim 👻
